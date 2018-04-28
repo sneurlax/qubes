@@ -44,8 +44,6 @@ but **make sure** to complete the process overviewed [in the installation sectio
  - kcalc
  - wget
  - dtrx
- - vlc
- - kdenlive
 
 *Oneliner (with dependencies for Bitcoin and Monero:*
 
@@ -56,6 +54,10 @@ sudo apt-get update && sudo apt-get install -y konsole konqueror kcalc dtrx vlc 
 ### *Other*
 
  - [libreoffice](https://www.libreoffice.org/download/download/)
+ - chrome
+ - firefox
+ - vlc
+ - kdenlive
  
  - [sublime-text](https://www.sublimetext.com/3)
  - [keepassxc](https://keepassxc.org/download/)
