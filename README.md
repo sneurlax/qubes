@@ -60,6 +60,7 @@ sudo apt-get update && sudo apt-get install -y konsole konqueror kcalc dtrx vlc 
  - [sublime-text](https://www.sublimetext.com/3)
  - [keepassxc](https://keepassxc.org/download/)
  - [veracrypt](https://www.veracrypt.fr/en/Downloads.html)
+ - [riot-web](https://riot.im/desktop.html)
  
  - [torguard](https://torguard.net/downloads.php)
  - [mullvad](https://mullvad.net/en/download/)
