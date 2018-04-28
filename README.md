@@ -2,7 +2,7 @@
 ## Hardware
 ### Purism laptops
 
-[Upgrade Coreboot before installing Qubes 4.0](https://forums.puri.sm/t/building-coreboot-from-source-official-script/1264)
+[Upgrade Coreboot before installing Qubes 4.0](https://forums.puri.sm/t/building-coreboot-from-source-official-script/1264):
  
 ```bash
 wget https://code.puri.sm/kakaroto/coreboot-files/raw/master/build_coreboot.sh -
