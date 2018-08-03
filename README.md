@@ -39,16 +39,17 @@ but **make sure** to complete the process overviewed [in the installation sectio
 
 ### Core packages
 
- - konsole
- - konqueror
- - kcalc
- - wget
- - dtrx
+ - `wget`
+ - `git`
+ - `dtrx`
+ - `konsole`
+ - `konqueror`
+ - `kcalc`
 
 *Oneliner (with dependencies for Bitcoin and Monero:*
 
 ```bash
-sudo apt-get update && sudo apt-get install -y konsole konqueror kcalc dtrx vlc kdenlive wget curl build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils python3 && sudo apt-get install libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-program-options-dev libboost-test-dev libboost-thread-dev libboost-all-dev libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler libzmq3-dev libunbound-dev libsodium-dev libminiupnpc-dev libunwind8-de liblzma-dev libreadline6-dev libldns-dev libexpat1-dev libgtest-dev doxygen graphviz
+sudo apt-get update && sudo apt-get install -y konsole konqueror kcalc dtrx vlc kdenlive wget curl git build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils python3 && sudo apt-get install libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-program-options-dev libboost-test-dev libboost-thread-dev libboost-all-dev libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler libzmq3-dev libunbound-dev libsodium-dev libminiupnpc-dev libunwind8-de liblzma-dev libreadline6-dev libldns-dev libexpat1-dev libgtest-dev doxygen graphviz
 ```
 
 ### *Other*
